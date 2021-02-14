@@ -17,4 +17,5 @@ One drawback of the webpage is the fact that all the data is manually store/upda
 ### Recommendations for Future Development
 
 1: Implement live data functionalities 
+
 2: Add a comment section for users to interact with one another, which would result in an increase of site visits.
